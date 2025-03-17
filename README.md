@@ -46,6 +46,8 @@ password = "şifre"
 ```sh
 python main.py
 ```
+![Ekran Resmi 2025-03-17 15 24 35](https://github.com/user-attachments/assets/51e6c295-1633-4eda-a2ef-f16717885f75)
+
 ![Ekran Resmi 2025-03-17 15 23 10](https://github.com/user-attachments/assets/4a221c2f-5b01-4b4e-a8c5-145be09d4ded)
 
 ![Ekran Resmi 2025-03-17 15 23 27](https://github.com/user-attachments/assets/acb3f78d-6fcc-4fdc-9652-289e58603eb2)
