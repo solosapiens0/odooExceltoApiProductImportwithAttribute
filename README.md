@@ -26,7 +26,7 @@ Bu proje, **Odoo API kullanarak** Excel dosyanızdaki ürünleri **otomatik olar
 Kurulum:
 ```sh
 pip install pandas
-
+```
 # 🚀 Kullanım
 
 ## 1️⃣ Excel Dosyanızı Hazırlayın
@@ -41,9 +41,9 @@ url = "http://odooadresiniz.com"
 db = "db-name"
 username = "admin"
 password = "şifre"
-
+```
 ## 3️⃣ Script’i Çalıştırın
 ```sh
 python main.py
-
+```
 # ✅ Ürünler Odoo’ya aktarılacak ve güncellenecek! 🎉
